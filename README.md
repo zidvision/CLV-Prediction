@@ -109,6 +109,7 @@ This means that most customers are likely to make at least one repeat purchase, 
 ---
 
 ## Tools & Libraries Used
+- Excel
 - Python
 - Jupyter Notebook
 - `Lifetimes`
