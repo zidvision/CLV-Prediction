@@ -75,19 +75,14 @@ Combined both models to estimate **Expected Customer Lifetime Value**
 
 ## Key Insights
 
-- Highly Skewed CLV Distribution
-Majority of customers are predicted to have a low CLV, with a small portion projected to generate significantly higher revenue.
+- Highly Skewed CLV Distribution. Majority of customers are predicted to have a low CLV, with a small portion projected to generate significantly higher revenue.
 This indicates the classic Pareto Principle (80/20 rule), where a minority of customers contribute the majority of future revenue.
 
-- Top Customers Stand Out Significantly
-The top 10 customers exhibit CLV values exceeding $20,000, with one customer predicted to generate nearly $140,000 in future revenue.
-These customers represent prime targets for loyalty programs and high-touch marketing strategies.
+- Top Customers Stand Out Significantly. Most of the top 10 customers exhibit a CLV exceeding $20,000, with one customer predicted to generate nearly $140,000 in future revenue. These customers are prime targets for loyalty programs and marketing strategies focused on direct interaction.
 
-- Predicted Average Transaction Value
-Based on Gamma-Gamma modeling results, the average customer is estimated to spend approximately $471,000 per transaction.
+- Based on Gamma-Gamma modeling results, the average customer is estimated to spend approximately $471,000 per transaction.
 
-- Expected Purchase Frequency
-  The results of the BG/NBD model indicate that each customer is predicted to make an average of 1.49 future transactions within three months.
+- The results of the BG/NBD model indicate that each customer is predicted to make an average of 1.49 future transactions within three months.
 This means that most customers are likely to make at least one repeat purchase, with retention opportunities that can be optimized through loyalty programs or automated reminders.
 
 ---
