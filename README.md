@@ -80,7 +80,7 @@ This indicates the classic Pareto Principle (80/20 rule), where a minority of cu
 
 - Top Customers Stand Out Significantly. Most of the top 10 customers exhibit a CLV exceeding $20,000, with one customer predicted to generate nearly $140,000 in future revenue. These customers are prime targets for loyalty programs and marketing strategies focused on direct interaction.
 
-- Based on Gamma-Gamma modeling results, the average customer is estimated to spend approximately $471,000 per transaction.
+- Based on Gamma-Gamma modeling results, the average customer is estimated to spend approximately $479,000 per transaction.
 
 - The results of the BG/NBD model indicate that each customer is predicted to make an average of 1.49 future transactions within three months.
 This means that most customers are likely to make at least one repeat purchase, with retention opportunities that can be optimized through loyalty programs or automated reminders.
